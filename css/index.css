@@ -1,4 +1,12 @@
 body{
-  background-color: rgb(200, 0, 0);
+  background-color: rgb(250, 250, 250);
   font-family: 'Amiko', sans-serif;
+}
+h1{
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+  margin-left: auto;
+  margin-right: auto;
 }
